@@ -1,5 +1,5 @@
 # **snowflake-devops-demo.yml.**
-name: snowflake-devops-demo
+name: snowflake-devops-demo-keypair
 
 # Environment variable created under github secrets. 
 env:
